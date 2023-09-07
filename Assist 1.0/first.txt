@@ -1,0 +1,8 @@
+Good day, {}.
+
+Today is {}.
+
+Yesterday, you did {}.
+Today, you should {}.
+
+Press Enter to Continue.
